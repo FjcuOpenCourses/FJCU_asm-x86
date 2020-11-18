@@ -1,0 +1,16 @@
+﻿  Assembling mainASM.asm...
+mainASM.asm(1): error A2008: syntax error : .
+mainASM.asm(2): error A2008: syntax error : .
+mainASM.asm(3): error A2008: syntax error : .
+mainASM.asm(4): error A2008: syntax error : ,
+mainASM.asm(8): error A2008: syntax error : ,
+mainASM.asm(11): error A2008: syntax error : ,
+mainASM.asm(25): error A2008: syntax error : INVOKE
+mainASM.asm(26): error A2008: syntax error : INVOKE
+mainASM.asm(53): error A2008: syntax error : INVOKE
+mainASM.asm(54): error A2008: syntax error : ,
+mainASM.asm(67): error A2008: syntax error : INVOKE
+mainASM.asm(73): error A2008: syntax error : INVOKE
+mainASM.asm(74): warning A6001: no return from procedure
+mainASM.asm(74): warning A6004: procedure argument or local not referenced : C
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\mainASM.obj" /W3 /errorReport:prompt  /TamainASM.asm" exited with code 1.

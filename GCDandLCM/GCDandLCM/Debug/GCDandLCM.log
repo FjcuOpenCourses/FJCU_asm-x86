@@ -1,0 +1,2 @@
+﻿LINK : error LNK2001: unresolved external symbol _mainCRTStartup
+C:\Users\user\source\repos\GCDandLCM\Debug\GCDandLCM.exe : fatal error LNK1120: 1 unresolved externals
