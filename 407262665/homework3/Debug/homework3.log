@@ -1,2 +1,3 @@
-﻿  LINK : C:\Users\user\source\repos\407262665\Debug\homework3.exe not found or not built by the last incremental link; performing full link
-  homework3.vcxproj -> C:\Users\user\source\repos\407262665\Debug\homework3.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(472,5): warning MSB8003: The VCToolsInstallDir property is not defined. Some build tools may not be found.
+  Assembling Source.asm...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Source.obj" /I "c:\irvine" /W3 /errorReport:prompt  /TaSource.asm" exited with code 1.

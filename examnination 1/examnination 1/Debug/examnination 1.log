@@ -1,3 +1,2 @@
-﻿  main.cpp
-main.obj : error LNK2019: unresolved external symbol _asmMain referenced in function _main
-C:\Users\user\source\repos\examnination 1\Debug\examnination 1.exe : fatal error LNK1120: 1 unresolved externals
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(472,5): warning MSB8003: The VCToolsInstallDir property is not defined. Some build tools may not be found.
+TRACKER : error TRK0005: Failed to locate: "CL.exe". The system cannot find the file specified.
